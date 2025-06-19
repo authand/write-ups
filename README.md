@@ -1,3 +1,3 @@
-# write-ups
+# Write-ups
 
-documenting ctfs and things i find/do
+Documenting CTFs/CrackMes and things I do
