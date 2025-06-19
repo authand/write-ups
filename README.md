@@ -1,3 +1,3 @@
-# Write-ups
+# WRITE-UPS
 
-Documenting CTFs/CrackMes and things I do
+Documenting CTFs/Crackmes and things I do
