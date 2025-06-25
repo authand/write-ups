@@ -1,0 +1,1 @@
+random roblox game had me calculate bitshifting according to the given number by hand, very tedious
