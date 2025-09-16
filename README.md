@@ -1,3 +1,3 @@
 # WRITE-UPS
 
-Documenting CTFs/Crackmes and things I do
+documenting ctfs and things I do
